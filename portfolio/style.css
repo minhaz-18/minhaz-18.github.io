@@ -1,0 +1,59 @@
+html {
+    scroll-behavior: smooth!important;
+}
+
+.bg-light {
+    background-color: #fff!important;
+}
+
+.show {
+    min-height: 100px!important;
+}
+
+.baiust .card .card_img_container img {
+    width: 20vw;
+}
+
+.cvc .card .card_img_container img {
+    width: 20vw;
+}
+
+.czs .card .card_img_container img {
+    width: 20vw;
+}
+
+.title {
+    color: tomato;
+}
+
+.college_title {
+    color: #002D72;
+}
+
+.research_box h1, .research_box h4, .project_box h1, .project_box h4 {
+    color: rgba(34,110,147,1);
+}
+
+.research_box p {
+    text-align: justify;
+}
+
+.publication_box_content h4 {
+    font-weight: 400;
+}
+
+.publication_box_content h1, .publication_box_content h4 {
+    color: rgba(34,110,147,1);
+}
+
+.file_box button a {
+    text-decoration: none;
+    color: #002D72;
+}
+figcaption {
+    /* background-color: black; */
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }
